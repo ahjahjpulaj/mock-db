@@ -1,0 +1,23 @@
+{"heroes":[
+	{
+	"id": "qwerty",
+	"name": "Test1",
+	"alterEgo": "string",
+	"likes": 55,
+	"default": true,
+	"avatarUrl": "string",
+	"avatarBlurredUrl": "string",
+	"avatarThumbnailUrl": "string"
+	},
+	{
+	"id": "asdfgh",
+	"name": "string",
+	"alterEgo": "string",
+	"likes": 11,
+	"default": false,
+	"avatarUrl": "string",
+	"avatarBlurredUrl": "string",
+	"avatarThumbnailUrl": "string"
+	}
+]
+}
